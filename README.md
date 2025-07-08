@@ -8,7 +8,8 @@ A collection of useful bash scripts for system automation and DevOps tasks.
 |----------------------------|-------------------------------------------|
 | `backup.sh`                | Creates a backup of a specified directory |
 | `log-cleaner.sh`           | Deletes old log files from the system     |
-| `zip_logs_older_7_days.sh` | Deletes old log files from the system     |
+| `zip_logs_older_7_days.sh` | Compresses log files older than 7 days    |
+| `service-status.sh`        | Displays the status of each service.      |
 
 ## 🔧 Usage
 
@@ -22,4 +23,6 @@ chmod +x script.sh
 bash-utils/
 ├── backup.sh
 ├── log-cleaner.sh
+├── zip_logs_older_7_days.sh
+├── service-status.sh
 └── README.md
