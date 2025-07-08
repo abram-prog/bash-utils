@@ -4,10 +4,11 @@ A collection of useful bash scripts for system automation and DevOps tasks.
 
 ## 📂 Contents
 
-| Script           | Description                              |
-|------------------|------------------------------------------|
-| `backup.sh`      | Creates a backup of a specified directory |
-| `log-cleaner.sh` | Deletes old log files from the system     |
+| Script                     | Description                               |
+|----------------------------|-------------------------------------------|
+| `backup.sh`                | Creates a backup of a specified directory |
+| `log-cleaner.sh`           | Deletes old log files from the system     |
+| `zip_logs_older_7_days.sh` | Deletes old log files from the system     |
 
 ## 🔧 Usage
 
