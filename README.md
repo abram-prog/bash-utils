@@ -8,7 +8,6 @@ A collection of useful bash scripts for system automation and DevOps tasks.
 |------------------|------------------------------------------|
 | `backup.sh`      | Creates a backup of a specified directory |
 | `log-cleaner.sh` | Deletes old log files from the system     |
-| `net-check.sh`   | Checks availability of specified hosts    |
 
 ## 🔧 Usage
 
